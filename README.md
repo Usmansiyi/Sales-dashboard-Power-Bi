@@ -1,87 +1,41 @@
-# Project Title: Youth-Basketball-Program-Excel Project 
+# Project Title: Superstore Sales Dashboard Power Bi Project 
 
 
 
 
-## Project Overview
-The analysis shows that August is the peak revenue month, while December and November are the lowest-performing months. The 11–15 age group drives the highest revenue contribution, and programs such as Summer Camp, AAU Teams, and General/Non-Specific training attract the most customers. Overall, the program demonstrates strong financial performance, high customer engagement, and clear seasonal trends.
+## Project Objective
+This report presents an analysis of the Superstore Sales Dashboard, focusing on overall sales performance, customer behavior, regional trends, product categories, and year-over-year (YoY) growth. The objective is to evaluate business performance, identify key drivers of growth, and highlight areas of opportunity for strategic decision-making.
 
 
 
 
-<img width="1299" height="679" alt="basketball program" src="https://github.com/user-attachments/assets/861a54f5-0f03-4b82-a182-7974b6d52cea" />
+<img width="1031" height="603" alt="Sales dashboard1" src="https://github.com/user-attachments/assets/df8e6a13-2db2-482d-80d8-de10caf35197" />
 
 
 
 
 
-## Objectives
-  **This report examines the performance of the Youth Basketball Program, with the aim of understanding revenue patterns, customer demographics, program demand, and payment behavior.**
+
+## Executive Summary
+  **The Superstore Sales Dashboard indicates strong overall business performance, with total sales reaching $2.3 million. The company recorded significant year-over-year growth across all key performance indicators, demonstrating effective sales execution and sustained customer demand.**
+
+Sales increased by 46.9% YoY, supported by a 50.8% rise in orders and a 49.1% increase in quantity sold. This growth was achieved with a negligible increase in average discount (+0.1%), suggesting that revenue expansion was driven primarily by higher sales volume rather than price reductions, thereby indicating healthy margins.
+
+Regionally, the West ($725.5K) and East ($678.8K) regions were the strongest performers, together accounting for the majority of total sales. In contrast, the South region ($391.7K) underperformed, presenting an opportunity for targeted marketing and operational improvements.
+
+Product analysis shows that the Technology category ($836K) was the leading contributor to revenue, followed by Furniture ($742K) and Office Supplies ($719K). Customer behavior analysis reveals that while the customer base grew modestly by 1.4% YoY, spending per customer increased significantly, indicating strong customer retention and higher average purchase value.
+
+Operationally, Standard Class shipping (60%) remains the preferred option, reflecting customer sensitivity to cost over delivery speed. Seasonal trends highlight stronger sales performance in the final quarter of the year, emphasizing the importance of strategic planning for peak periods.
+
+**Overall, the business demonstrates strong growth momentum, with opportunities to further expand performance through customer acquisition, regional optimization, and continued focus on high-performing product categories.**
 
   
-**Key metrics include:**
-
-*Total Revenue: $5.0M
-
-*Total Customers: 11,275
-
-*Programs Offered: 27	
-
-*Payment Completion: 93% paid; $358K outstanding
-
-*Top Revenue Cities: Greenwich, Stamford, Riverside, Darien
-
-
-
-
-
-
-## Reports
-
-- **Methodology**: 
-
-The analysis was conducted using Microsoft Excel, primarily leveraging Pivot Tables to summarize and organize data. Pivot Charts, slicers, and conditional formatting were used to visualize key trends and reveal patterns.
-- **Data Analysis**:
-  
-**1. Seasonal Revenue Pattern**
-   
-  * Peak Month: August, driven by high enrollment in Summer Camps and competitive programs.
-
-  * Lowest Months: December, followed by November, due to holiday periods and off-season inactivity.
-
-**2. Customer Demographics**
-   
-  * The 11–15 age group is the core revenue driver, contributing $3.2M.
-
-  * Other age groups contribute modestly, with 20+ years generating the least revenue.
-
-**3. Top-Performing Programs**
- 
-  * Summer Camp, AAU Teams, and General/Non-Specific programs attract the highest customer counts.
-
-  * Smaller programs include Elite MS Camps and Girls Summer Camps.
-
-**4. Geographic Revenue Concentration**
-   
-  * Top revenue cities include Greenwich ($912K), Stamford ($853K), Riverside, and Darien.
-  * These areas represent high-income, high-participation communities.
-
-**5. High-Value Families**
-   
-  * The Cartiera family is both the highest-paying and the largest participating household (132 customers).
-  * Several other families contribute strong recurring revenue.
-
-## Conclusion  
-These results suggest that the program has a solid financial base, strong demand among early-to-mid teens, and high participation in summer-driven activities. 
-## Recommendations
-Based on the findings, it is recommended to expand high-demand programs, introduce off-season training to reduce revenue dips, focus marketing on top-paying cities, and develop loyalty initiatives for high-value families.
-
 
 
 
 ## Author - Usman Siyi
 
-This project showcases MS Excel skills essential for analysing data. looking For someone with skills on Excel and data analysis , connect with me through the following channels:
+This project showcases Power Bi & data analytics skills essential for analysing data. looking For someone with skills on Excel, Power Bi ,SQL and data analysis , connect with me through the following channels:
 
 - **Email**: (nuraensiyi@gmail.com)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/UsmanSiyi)
